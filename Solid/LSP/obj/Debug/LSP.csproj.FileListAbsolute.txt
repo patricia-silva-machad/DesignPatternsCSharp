@@ -1,0 +1,8 @@
+C:\Users\patri\Dotnet6-Udemy\DesignPatternsCSharp\Solid\LSP\bin\Debug\LSP.exe.config
+C:\Users\patri\Dotnet6-Udemy\DesignPatternsCSharp\Solid\LSP\bin\Debug\LSP.exe
+C:\Users\patri\Dotnet6-Udemy\DesignPatternsCSharp\Solid\LSP\bin\Debug\LSP.pdb
+C:\Users\patri\Dotnet6-Udemy\DesignPatternsCSharp\Solid\LSP\obj\Debug\LSP.csproj.AssemblyReference.cache
+C:\Users\patri\Dotnet6-Udemy\DesignPatternsCSharp\Solid\LSP\obj\Debug\LSP.csproj.SuggestedBindingRedirects.cache
+C:\Users\patri\Dotnet6-Udemy\DesignPatternsCSharp\Solid\LSP\obj\Debug\LSP.csproj.CoreCompileInputs.cache
+C:\Users\patri\Dotnet6-Udemy\DesignPatternsCSharp\Solid\LSP\obj\Debug\LSP.exe
+C:\Users\patri\Dotnet6-Udemy\DesignPatternsCSharp\Solid\LSP\obj\Debug\LSP.pdb
