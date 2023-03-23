@@ -1,0 +1,8 @@
+C:\Users\patri\Dotnet6-Udemy\DesignPatternsCSharp\Solid\DIP\bin\Debug\DIP.exe.config
+C:\Users\patri\Dotnet6-Udemy\DesignPatternsCSharp\Solid\DIP\bin\Debug\DIP.exe
+C:\Users\patri\Dotnet6-Udemy\DesignPatternsCSharp\Solid\DIP\bin\Debug\DIP.pdb
+C:\Users\patri\Dotnet6-Udemy\DesignPatternsCSharp\Solid\DIP\obj\Debug\DIP.csproj.AssemblyReference.cache
+C:\Users\patri\Dotnet6-Udemy\DesignPatternsCSharp\Solid\DIP\obj\Debug\DIP.csproj.SuggestedBindingRedirects.cache
+C:\Users\patri\Dotnet6-Udemy\DesignPatternsCSharp\Solid\DIP\obj\Debug\DIP.csproj.CoreCompileInputs.cache
+C:\Users\patri\Dotnet6-Udemy\DesignPatternsCSharp\Solid\DIP\obj\Debug\DIP.exe
+C:\Users\patri\Dotnet6-Udemy\DesignPatternsCSharp\Solid\DIP\obj\Debug\DIP.pdb
