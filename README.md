@@ -19,3 +19,22 @@ I - Interface Segregation Principle (Principio da Segregação de Interfaces)
 
 D - Dependency Inversion Principle (Principio da Inversão de Dependencia)
   "Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações; Abstrações não devem depender de detalhes." 
+
+
+
+  Seção 2 - Gang of Four (Gangue dos Quatro)
+
+
+Classificado por 3 categorias, veremos os seguintes  
+
+- Criacional 
+
+    Factory Method, Abstract Method and Builder. 
+
+- Estrutural
+
+    Adapter and Bridge.
+
+- Comportamental 
+
+    Chain of Responsability 
