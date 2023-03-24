@@ -14,12 +14,16 @@ namespace AbstractMethod {
             Application app;
 
             ITransporteFactory transporteFactory;
-            string company = "Uber";
+            string company = "Line";
             if(company == "Uber") {
 
                 transporteFactory = new UberTransporte();
-            } else {
+            } 
+            else if (company == "NineNine") {
+
                 transporteFactory = new NineNineTransporte();
+            } else {
+                transporteFactory = new LineTransporte();
             }
 
 

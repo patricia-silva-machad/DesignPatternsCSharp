@@ -44,10 +44,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Aeronaves\Aviao.cs" />
+    <Compile Include="Aeronaves\Drone.cs" />
     <Compile Include="Aeronaves\Helicoptero.cs" />
     <Compile Include="Aeronaves\IAeronaves.cs" />
     <Compile Include="App\Application.cs" />
     <Compile Include="Factories\ITransporteFactory.cs" />
+    <Compile Include="Factories\LineTransporte.cs" />
     <Compile Include="Factories\NineNineTransporte.cs" />
     <Compile Include="Factories\UberTransporte.cs" />
     <Compile Include="Program.cs" />
@@ -55,6 +57,7 @@
     <Compile Include="VeiculosTerrestres\Carro.cs" />
     <Compile Include="VeiculosTerrestres\IVeiculosTerrestres.cs" />
     <Compile Include="VeiculosTerrestres\Moto.cs" />
+    <Compile Include="VeiculosTerrestres\Patinetes.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
