@@ -1,5 +1,6 @@
 # DesignPatternsCSharp
 
+- Curso Design Patterns com C# - Entendendo Padrões de Projetos (Udemy)
 
 Seção 1 - Entendendo o princípio SOLID
  
