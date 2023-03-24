@@ -32,8 +32,8 @@ Classificado por 3 categorias, veremos os seguintes
     Factory Method: define uma interface para criar um objeto, mais deixa que as subclasses decidam qual classe instânciar. O Factory Method permite a uma classe adiar a instânciação às subclasses.
 
     Abstract Method: define uma interface para criar todos os produtos distintos, mas deixa a criação real do produto para classes fábrica concretas.
-    
-    Builder. 
+
+    Builder: utilizado quando formos construir um objeto complexo. Quebrando o processo de criação do projeto em etapas. 
 
 - Estrutural
 
