@@ -8,7 +8,7 @@ namespace FactoryMethod.Veiculos {
         }
 
         public void StartRota() {
-
+            GetCarga();
             Console.WriteLine("Iniciamos a entrega.");
         }
     }

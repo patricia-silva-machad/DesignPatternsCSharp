@@ -10,7 +10,7 @@ namespace FactoryMethod.Veiculos {
         }
 
         public void StartRota() {
-
+            GetCarga();
             Console.WriteLine("Iniciamos o trajeto.");
         }
 
