@@ -38,7 +38,9 @@ Classificado por 3 categorias, veremos os seguintes
 
 - Estrutural
 
-    Adapter and Bridge.
+    Adapter: permite que as classes trabalhem juntas que não poderiam de outra forma por causa de interfaces incompatíveis. Agrupe uma classe existente com uma nova interface. Ex: benjamin, ele faz a adaptação/conversao da interface de um objeto para que outro objeto possa compreender as informações.
+
+    Bridge:
 
 - Comportamental 
 
