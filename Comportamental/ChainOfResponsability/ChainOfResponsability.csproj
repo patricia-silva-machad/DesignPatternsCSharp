@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Middlewares\CheckPermissionMiddleware.cs" />
     <Compile Include="Middlewares\CheckUserMiddleware.cs" />
+    <Compile Include="Middlewares\CheckWeakPasswordMiddle.cs" />
     <Compile Include="Middlewares\Middleware.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

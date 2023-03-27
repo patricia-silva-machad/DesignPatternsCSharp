@@ -14,10 +14,11 @@ namespace ChainOfResponsability {
             server = new Server();
 
             server.RegisterUser("master@patricimachado.com.br", "1234$pati&&olp");
-            server.RegisterUser("user@patricimachado.com.br", "32212kaka");
+            server.RegisterUser("user@patricimachado.com.br", "123456");
 
             Middleware middleware = new CheckUserMiddleware(server);
             middleware.LinkWith(new CheckPermissionMiddleware());
+            middleware.LinkWith(new CheckWeakPasswordMiddle());
             server.SetMiddleware(middleware);
         }
         static void Main(string[] args) {
