@@ -12,7 +12,6 @@ namespace Bridge.Plataforms {
         }
 
         public void ConfigureRMTP() {
-
             AuthToken();
             Console.WriteLine("Facebook: Configurando servidor RTMP");
         }

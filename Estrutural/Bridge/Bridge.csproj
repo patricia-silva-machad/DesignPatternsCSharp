@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Plataforms\DLive.cs" />
     <Compile Include="Plataforms\Facebook.cs" />
     <Compile Include="Plataforms\IPlataform.cs" />
     <Compile Include="Plataforms\TwitchTV.cs" />

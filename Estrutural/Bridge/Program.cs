@@ -19,13 +19,14 @@ namespace Bridge {
             live.Broadcasting();
             live.Subtitle();
             live.Comments();
+            live.Record();
             live.Result();
         }
         static void Main(string[] args) {
 
-            StartAdvancedLive(new Youtube());
+            StartLive(new Youtube());
             StartLive(new Facebook());
-            StartLive(new TwitchTV());
+            StartAdvancedLive(new TwitchTV());
 
             Console.ReadLine();
         }
