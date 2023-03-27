@@ -40,7 +40,7 @@ Classificado por 3 categorias, veremos os seguintes
 
     Adapter: permite que as classes trabalhem juntas que não poderiam de outra forma por causa de interfaces incompatíveis. Agrupe uma classe existente com uma nova interface. Ex: benjamin, ele faz a adaptação/conversao da interface de um objeto para que outro objeto possa compreender as informações.
 
-    Bridge:
+    Bridge: é um padrão de projeto estrutural que permite que você divida uma classe grande ou um conjunto de classes intimamente ligadas em duas hierarquias separadas—abstração e implementação—que podem ser desenvolvidas independentemente umas das outras.
 
 - Comportamental 
 
